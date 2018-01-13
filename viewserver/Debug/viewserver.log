@@ -1,0 +1,12 @@
+﻿  winproject.cpp
+c:\users\smofa\documents\school\previous semesters\game design\arkanoid\viewserver\winproject.cpp(164): warning C4005: 'TIMER1': macro redefinition
+  c:\users\smofa\documents\school\previous semesters\game design\arkanoid\viewserver\winproject.cpp(31): note: see previous definition of 'TIMER1'
+c:\users\smofa\documents\school\previous semesters\game design\arkanoid\viewserver\winproject.cpp(187): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\smofa\documents\school\previous semesters\game design\arkanoid\viewserver\winproject.cpp(181): warning C4101: 'hwin': unreferenced local variable
+c:\users\smofa\documents\school\previous semesters\game design\arkanoid\viewserver\winproject.cpp(337): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\smofa\documents\school\previous semesters\game design\arkanoid\viewserver\winproject.cpp(347): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\smofa\documents\school\previous semesters\game design\arkanoid\viewserver\winproject.cpp(356): warning C4101: 'si': unreferenced local variable
+c:\users\smofa\documents\school\previous semesters\game design\arkanoid\viewserver\winproject.cpp(355): warning C4101: 'wmEvent': unreferenced local variable
+c:\users\smofa\documents\school\previous semesters\game design\arkanoid\viewserver\winproject.cpp(355): warning C4101: 'wmId': unreferenced local variable
+  viewserver.vcxproj -> C:\Users\smofa\Documents\School\Previous Semesters\Game Design\Arkanoid\Debug\winproject.exe
+  viewserver.vcxproj -> C:\Users\smofa\Documents\School\Previous Semesters\Game Design\Arkanoid\Debug\winproject.pdb (Partial PDB)
